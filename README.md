@@ -24,7 +24,8 @@ This project implements a facial emotion recognition system using the DeepFace l
 1. **Clone the Repository:**
    ```bash
    git clone https://github.com/Navin-Lakshman-S/FER-project.git
-   cd facial-emotion-recognition```
+   cd facial-emotion-recognition
+   ```
 
 2. **Install Dependencies:**
    ```bash
