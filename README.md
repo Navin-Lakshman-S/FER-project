@@ -23,9 +23,8 @@ This project implements a facial emotion recognition system using the DeepFace l
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/facial-emotion-recognition.git
-   cd facial-emotion-recognition
-```
+   git clone https://github.com/Navin-Lakshman-S/FER-project.git
+   cd facial-emotion-recognition```
 
 2. **Install Dependencies:**
    ```bash
@@ -34,6 +33,8 @@ This project implements a facial emotion recognition system using the DeepFace l
 
 3. **Download Haar Cascade for Face Detection:**
    - Download the `haarcascade_frontalface_default.xml` file from the [OpenCV GitHub repository](https://github.com/opencv/opencv/tree/master/data/haarcascades) and place it in the project directory.
+
+   **I have included here so no need to worry just go on cloning and running this**
 
 ## Usage
 
