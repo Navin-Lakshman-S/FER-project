@@ -1,7 +1,3 @@
-import subprocess
-
-subprocess.run(["pip3", "install", "opencv-python", "numpy", "deepface", "gradio","moviepy","tf-keras"])
-
 def predict(image):
 
     import cv2
