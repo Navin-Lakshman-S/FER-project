@@ -1,0 +1,2 @@
+
+opencv-python tf-keras deepface gradio numpy
