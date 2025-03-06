@@ -12,7 +12,7 @@ This project implements a facial emotion recognition system using the DeepFace l
 
 ## Requirements
 
-- Python 3.6 or higher
+- Python 3.6 to 3.12.8
 - Libraries:
   - `deepface`
   - `gradio`
